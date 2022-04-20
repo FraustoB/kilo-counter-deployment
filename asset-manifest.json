@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kilo-counter-deployment/static/css/main.bde3ba9a.css",
+    "main.js": "/kilo-counter-deployment/static/js/main.8a66cd98.js",
+    "static/js/787.c6e21bd1.chunk.js": "/kilo-counter-deployment/static/js/787.c6e21bd1.chunk.js",
+    "index.html": "/kilo-counter-deployment/index.html",
+    "main.bde3ba9a.css.map": "/kilo-counter-deployment/static/css/main.bde3ba9a.css.map",
+    "main.8a66cd98.js.map": "/kilo-counter-deployment/static/js/main.8a66cd98.js.map",
+    "787.c6e21bd1.chunk.js.map": "/kilo-counter-deployment/static/js/787.c6e21bd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde3ba9a.css",
+    "static/js/main.8a66cd98.js"
+  ]
+}
