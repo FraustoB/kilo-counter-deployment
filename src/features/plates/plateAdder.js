@@ -121,7 +121,7 @@ export function PlateAdder() {
         </button>
         <button
           className={`flex-none bg-slate-400 text-white rounded-full h-10 w-10 md:hover:scale-105`}
-          onClick={() => updatePlate(dispatch, "bg-slate-400", 5, "10")}
+          onClick={() => updatePlate(dispatch, "bg-slate-400", 1.25, "10")}
         >
           1.25
         </button>
