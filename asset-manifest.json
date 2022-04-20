@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.965e8f0e.css",
-    "main.js": "/static/js/main.2ea60c09.js",
-    "static/js/787.c6e21bd1.chunk.js": "/static/js/787.c6e21bd1.chunk.js",
-    "index.html": "/index.html",
-    "main.965e8f0e.css.map": "/static/css/main.965e8f0e.css.map",
-    "main.2ea60c09.js.map": "/static/js/main.2ea60c09.js.map",
-    "787.c6e21bd1.chunk.js.map": "/static/js/787.c6e21bd1.chunk.js.map"
+    "main.css": "/kilo-counter-deployment/static/css/main.965e8f0e.css",
+    "main.js": "/kilo-counter-deployment/static/js/main.f483ccd8.js",
+    "static/js/787.c6e21bd1.chunk.js": "/kilo-counter-deployment/static/js/787.c6e21bd1.chunk.js",
+    "index.html": "/kilo-counter-deployment/index.html",
+    "main.965e8f0e.css.map": "/kilo-counter-deployment/static/css/main.965e8f0e.css.map",
+    "main.f483ccd8.js.map": "/kilo-counter-deployment/static/js/main.f483ccd8.js.map",
+    "787.c6e21bd1.chunk.js.map": "/kilo-counter-deployment/static/js/787.c6e21bd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.965e8f0e.css",
-    "static/js/main.2ea60c09.js"
+    "static/js/main.f483ccd8.js"
   ]
 }
