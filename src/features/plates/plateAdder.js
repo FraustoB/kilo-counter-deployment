@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useSelector, useDispatch, batch } from "react-redux";
+import { useDispatch, batch } from "react-redux";
 import { addPlate, removePlate, resetPlate } from "./plateSlice";
 import {
   incrementByAmount,
@@ -63,6 +63,11 @@ export function PlateAdder() {
         dispatch(decrementByAmount(weightInLbs));
         dispatch(decrementKiloByAmount(num * 2));
       });
+    }
+  };
+
+  const handleOnClick = (e) => {
+    if (curPlate.amount.length > 0) {
     }
   };
 

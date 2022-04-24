@@ -5,7 +5,6 @@ import { useSelector } from "react-redux";
 import { CurrentPlates } from "./currentPlates";
 
 export function BaseContainer() {
-  // const curPlate = useSelector((state) => state.plates.value.plate);
   const curAmount = useSelector((state) => state.counter.value);
   const curKiloAmount = useSelector((state) => state.counter.kiloValue);
 
